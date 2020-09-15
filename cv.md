@@ -11,3 +11,5 @@
   Geography department  
   **Belarusian State University** *2010 - 2013*  
   Economics department
+
+8 English level: B1+
