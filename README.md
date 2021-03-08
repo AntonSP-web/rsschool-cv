@@ -1,1 +1,1 @@
-https://antonsp-web.github.io/rsschool-cv/cv
+https://antonsp-web.github.io/rsschool-cv/index.html
